@@ -7,8 +7,10 @@
 <li> 👀 I’m a first year Master's student teaching myself how to code  </li>
 <li> 🌱 I’m currently learning HTML CSS and Javascript </li>
 <li> 💞️ I have two projects in the works : </li>
- 1. building a website for a local association using Wordpress
- 2. building a website dedicated to my best friend
+      <ul>
+ <li> building a website for a local association using Wordpress </li>
+<li>  building a website dedicated to my best friend</li>
+      </ul>
 <li> 😄 Pronouns: she/her </li>
 <li> ⚡ Fun fact: I was born in Vancouver so I'm fluent in French and English</li>
         </ul>
