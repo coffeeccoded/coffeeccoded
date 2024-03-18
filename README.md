@@ -1,10 +1,7 @@
 <html>
   <body>
     <main>
-      <style>
-        button{
-          
-      </style>
+    
       <ul>
 <li> 👋 Hi, I’m @coffeeccoded, AKA Anne </li>
 <li> 👀 I’m a first year Master's student teaching myself how to code  </li>
@@ -14,10 +11,10 @@
   <p>2. building a website dedicated to my best friend</p>
 <li> 😄 Pronouns: she/her </li>
 <li> ⚡ Fun fact: </li>
-  1. I'm actually fluent in french, don't believe me? <button class="translate" type="button"> Click me ! </button>
+  1. I'm fluent in French and English
         </ul>
     </main>
-    </body>
+  </body>
 </html>
 <!---
 coffeeccoded/coffeeccoded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
